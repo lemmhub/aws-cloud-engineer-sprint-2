@@ -62,7 +62,8 @@ aws rds describe-db-instances | grep Address
   mysql -u admin -p -h paas-db.cnyxqkx1bbds.us-east-1.rds.amazonaws.com
 ```
 
-[](1.png)
+![Image 1](/mdpic/1.png)
+
 
 6. Crea una base de datos y tabla para almacenar la información
 
@@ -114,7 +115,7 @@ npm install
 npm start
 ```
 
-[](2.png)
+![Image 2](/mdpic/2.png)
 
 3. Puedes previsualizar la aplicación haciendo click en Preview
 
