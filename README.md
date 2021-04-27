@@ -115,7 +115,7 @@ npm install
 npm start
 ```
 
-![Image 2](/mdpic/2.png)
+![Image 2](/mdpic/2.PNG)
 
 3. Puedes previsualizar la aplicación haciendo click en Preview
 
