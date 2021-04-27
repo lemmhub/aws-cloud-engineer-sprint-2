@@ -102,7 +102,7 @@ INSERT INTO `pizzas`.`catalogo` (`descripcion`, `precio`, `ingredientes`,`imagen
 
 ## 3. Probar el sitio de manera interna
 
-1. Posiciónate dentro de la terminal en el archivo del aplicativo CS_2
+1. Posiciónate dentro de la terminal en el archivo del repositorio CS_2
 
 ```
 cd CS_2/
