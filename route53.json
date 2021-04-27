@@ -1,0 +1,11 @@
+{
+            "Comment": "CREATE a record ",
+            "Changes": [{
+            "Action": "CREATE",
+                        "ResourceRecordSet": {
+                                    "Name": "{agregar nombre del dominio}",
+                                    "Type": "A",
+                                    "TTL": 300,
+                                 "ResourceRecords": [{ "Value": "{agregar ip pública de ec2}"}]
+}}]
+}
