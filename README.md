@@ -62,7 +62,7 @@ aws rds describe-db-instances | grep Address
   mysql -u admin -p -h paas-db.cnyxqkx1bbds.us-east-1.rds.amazonaws.com
 ```
 
-![Image 1](/mdpic/1.png)
+![Image 1](/mdpic/1.PNG)
 
 
 6. Crea una base de datos y tabla para almacenar la información
